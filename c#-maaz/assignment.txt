@@ -1,0 +1,18 @@
+Question 1: Library Book Management
+A library wants to manage simple book information.
+•	Ask the user how many books they want to enter.
+•	For each book, input: Title, Author, and Year of Publication.
+•	Store the information in arrays.
+•	Display all books entered in a formatted list.
+•	Ask the user to search for books by a particular author and display matching results.
+Question 2: ATM Cash Withdrawal Simulation
+A simple ATM simulation that.
+•	Ask the user to enter their account balance.
+•	Ask the user what transaction they want to perform 
+(1) Check Balance (2) Deposit (3) Withdraw (4) Exit  
+•	If the user enters 1 display balance
+•	If the user enters 2 ask for deposit amount, update the balance & display updated balance.
+•	If the user enters 3 ask the user how much they want to withdraw.
+o	If the amount is greater than the balance, show “Insufficient funds.”
+o	If the amount is within the balance, deduct it and display the remaining balance.
+•	Allow the user to perform multiple transactions until they choose to exit.
